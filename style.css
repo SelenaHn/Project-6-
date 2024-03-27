@@ -1,0 +1,18 @@
+/* Welcome message style */
+.welcome-message {
+    text-align: center;
+    margin-bottom: 20px;
+    color: green;
+}
+
+/* Map style */
+#map {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Button style */
+.btn {
+    margin-right: 10px;
+}
